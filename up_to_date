@@ -1,0 +1,4 @@
+the comand used to Get all changes of the main branch locally is 'pull"
+first check branch and then chenge directory to alx-zero_day then 
+execuite this comand -> 'git pull origin master'
+because ''git pull = git fetch + git merge''
